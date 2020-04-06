@@ -17,4 +17,4 @@
 ## commit
 어떤 순간 작업공간의 상태를 저장한것
 
-<img src="https://user-images.githubusercontent.com/41403898/78548222-65877080-783b-11ea-8a7e-5718e4a80510.png" width="200" height="200" align="center">
+<img src="https://user-images.githubusercontent.com/41403898/78548222-65877080-783b-11ea-8a7e-5718e4a80510.png" width="400" height="400" align="left">
