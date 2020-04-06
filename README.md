@@ -4,9 +4,9 @@
 ***
 ## Repository
 소프트웨어 저장소 또는 소프트웨어 리포지터리는 소프트웨어 패키지가 컴퓨터에서 조회되고 설치될 수 있는 저장 위치
-
+<center>
 ![repository](https://user-images.githubusercontent.com/41403898/78546185-f3f9f300-7837-11ea-8933-63033794d9c4.png)
-
+</center>
 ***
 ## branch
 개발자들이 독립적으로 작업을 진행하기 위한 개념으로 각각의 브랜치는 서로의 영향을 받지 않기 때문에 여러작업을 동시에 진행할 수 있음
@@ -17,4 +17,4 @@
 ## commit
 어떤 순간 작업공간의 상태를 저장한것
 
-![commit](https://user-images.githubusercontent.com/41403898/78548222-65877080-783b-11ea-8a7e-5718e4a80510.png){: width="100" height="100"}
+![commit](https://user-images.githubusercontent.com/41403898/78548222-65877080-783b-11ea-8a7e-5718e4a80510.png)
