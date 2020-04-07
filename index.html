@@ -11,57 +11,29 @@
             background-repeat : no-repeat;
             background-size : cover;
           }
-          table.type09 {
-    border-collapse: collapse;
-    text-align: left;
-    line-height: 1.5;
+          button.orange {
+    color: white;
+    border: 1px solid #FB8F3D; 
+    background: -webkit-linear-gradient(top, #FDA251, #FB8F3D);
+    background: -moz-linear-gradient(top, #FDA251, #FB8F3D);
+    background: -ms-linear-gradient(top, #FDA251, #FB8F3D);
+}
 
+button.orange:hover {
+    border: 1px solid #EB5200;
+    background: -webkit-linear-gradient(top, #FD924C, #F9760B); 
+    background: -moz-linear-gradient(top, #FD924C, #F9760B); 
+    background: -ms-linear-gradient(top, #FD924C, #F9760B); 
+    box-shadow: 0 1px #EFEFEF;
 }
-table.type09 thead th {
-    padding: 10px;
-    font-weight: bold;
-    vertical-align: top;
-    color: #369;
-    border-bottom: 3px solid #036;
+
+button.orange:active {
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.3);
 }
-table.type09 tbody th {
-    width: 150px;
-    padding: 10px;
-    font-weight: bold;
-    vertical-align: top;
-    border-bottom: 1px solid #ccc;
-    background: #f3f6f7;
-}
-table.type09 td {
-    width: 350px;
-    padding: 10px;
-    vertical-align: top;
-    border-bottom: 1px solid #ccc;
-}
+
         </style>
         </head>
       <body>
-        <table class="type09">
-    <thead>
-    <tr>
-        <th scope="cols">타이틀</th>
-        <th scope="cols">내용</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <th scope="row">항목명</th>
-        <td>내용이 들어갑니다.</td>
-    </tr>
-    <tr>
-        <th scope="row">항목명</th>
-        <td>내용이 들어갑니다.</td>
-    </tr>
-    <tr>
-        <th scope="row">항목명</th>
-        <td>내용이 들어갑니다.</td>
-    </tr>
-    </tbody>
-</table>
+       <button class="orange"></button>
       </body>
       </html>
