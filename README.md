@@ -1,3 +1,4 @@
+
 # 데이터분석과 1일차 수업 
 * git 사용법
 
@@ -18,3 +19,8 @@
 어떤 순간 작업공간의 상태를 저장한것
 
 <img src="https://user-images.githubusercontent.com/41403898/78548222-65877080-783b-11ea-8a7e-5718e4a80510.png" width="400" height="400" align="left">
+=======
+# hello-world
+test repository
+2020년 4월 6일 수정
+>>>>>>> branch 'gh-pages' of https://github.com/Esensia/hello-world.git
