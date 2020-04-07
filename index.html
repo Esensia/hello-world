@@ -14,20 +14,30 @@
           p {
             text-align: center;
           }
+          button.orange {
+          color: white;
+          border: 1px solid #FB8F3D; 
+          background: -webkit-linear-gradient(top, #FDA251, #FB8F3D);
+          background: -moz-linear-gradient(top, #FDA251, #FB8F3D);
+          background: -ms-linear-gradient(top, #FDA251, #FB8F3D);
+          }
+
+          button.orange:hover {
+          border: 1px solid #EB5200;
+          background: -webkit-linear-gradient(top, #FD924C, #F9760B); 
+          background: -moz-linear-gradient(top, #FD924C, #F9760B); 
+          background: -ms-linear-gradient(top, #FD924C, #F9760B); 
+          box-shadow: 0 1px #EFEFEF;
+          }
+
+          button.orange:active {
+          box-shadow: inset 0 1px 1px rgba(0,0,0,0.3);
+          }
+          
         </style>
         </head>
       <body>
         <h1 align="center">반갑습니다!</h1>
-      <a href="https://facebook.com"><img src="facebook.png" style="display: block; margin: 0 auto;"></a>
-      <br>
-      <a href="https://naver.com"><img src="naver.png" style="display: block; margin: 0 auto;"></a>
-      <br>
-      <a href="https://apple.com"><img src="apple.png" style="display: block; margin: 0 auto;"></a>
-      <br>
-      <a href="https://google.com"><img src="google.png" style="display: block; margin: 0 auto;"></a>
-      <br>
-      <p>
-      <a href="https://www.youtube.com/watch?v=ITufj6h6nAM">1일차 학습동영상 </a>
-      </p>
+      <a href="https://www.youtube.com/watch?v=ITufj6h6nAM"><button class="orange" style="display: block; margin: 0 auto;">첫번째 과제</button></a>
       </body>
       </html>
